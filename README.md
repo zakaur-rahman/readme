@@ -54,7 +54,7 @@ to feedback and suggestions!
 <!-- ###*************** Social media information*******************### -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p  align="left">
 <!-- ###*************** Tweeter*******************### -->
         <a href="https://twitter.com/zakaurrahman67" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -75,7 +75,7 @@ to feedback and suggestions!
 <!-- ###*************** Languages And Tools*******************### -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<p  align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
                         alt="android" width="35" height="35" /> </a> <a href="https://aws.amazon.com" target="_blank"
                 rel="noreferrer"> <img
